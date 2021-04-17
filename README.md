@@ -185,7 +185,7 @@ const tutorials = [
   'what is the difference between event capturing and bubbling?',
   'what is JSONP?'
 ];
-```
+```  
 
 Run `learn` and ensure that tests are passing.
 
